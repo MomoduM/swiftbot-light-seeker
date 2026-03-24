@@ -2,7 +2,7 @@ SwiftBot — Autonomous Light-Seeking Robot
 
 A Java-based autonomous robot programmed to seek out the strongest light source in its environment, built as part of my Computer Science degree at Brunel University.
 Demo
-LinkedIn video demo — [insert LinkedIn post link here]
+LinkedIn video demo — (https://www.linkedin.com/feed/update/urn:li:activity:7442292664366039041/)
 Overview
 SwiftBot uses LDR (Light Dependent Resistor) sensors to continuously scan its environment, comparing left and right light intensity readings to steer itself toward the brightest source. The robot operates autonomously once started, with no human input.
 Features
