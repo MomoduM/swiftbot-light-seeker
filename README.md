@@ -1,4 +1,5 @@
 SwiftBot — Autonomous Light-Seeking Robot
+
 A Java-based autonomous robot programmed to seek out the strongest light source in its environment, built as part of my Computer Science degree at Brunel University.
 Demo
 LinkedIn video demo — [insert LinkedIn post link here]
